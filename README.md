@@ -2,7 +2,7 @@
 
 **Authors:** Siwon Jo, Yanze Zhang, Yupeng Yang, and Wenhao Luo
 
-> **📢 Notice regarding Code and Paper Release:** > The full code and arXiv pre-print are currently withheld as we are extending this work for journal submission. 
+> **📢 Notice regarding Code and Paper Release:**  The full code and arXiv pre-print are currently withheld as we are extending this work for journal submission. 
 
 ## 📌 Overview
 Our framework guarantees real-time collision avoidance for robot and obstacles with irregular geometries utilizing Control Barrier Functions and Bernstein polynomial approximations.
