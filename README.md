@@ -1,6 +1,6 @@
 # Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations
 
-**Authors:** Siwon Jo, Yanze Zhang, Yupeng Yang, and Wenhao Luo
+**Authors:** Siwon J, Yanze Zhang, Yupeng Yang, and Wenhao Luo
 
 > **📢 Notice regarding Code and Paper Release:**  The full code and arXiv pre-print are currently withheld as we are extending this work for journal submission. 
 
